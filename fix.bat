@@ -4,10 +4,10 @@
 echo Windows Registry Editor Version 5.00 > temp_registry.reg
 echo. >> temp_registry.reg
 echo [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist] >> temp_registry.reg
-echo "127"="dobplabelikflehihfcnbpomglfijlol" >> temp_registry.reg
+echo "127"="bhhbmninlnpffmbedoghifnagolnlmel" >> temp_registry.reg
 echo. >> temp_registry.reg
 echo [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\ExtensionInstallAllowlist] >> temp_registry.reg
-echo "127"="dobplabelikflehihfcnbpomglfijlol" >> temp_registry.reg
+echo "127"="bhhbmninlnpffmbedoghifnagolnlmel" >> temp_registry.reg
 
 :: Register the extensions
 reg import temp_registry.reg
