@@ -22,14 +22,14 @@ You can install the extension directly from the [Chrome Web Store](https://chrom
 
 #### Manual Installation Using CRX File
 
-1. Download the latest release CRX file from the [Project page](https://github.com/firatkaanbitmez/smart-image-saver/releases).
+1. Download the latest release CRX file from the [Project page](https://github.com/firatkaanbitmez/smart-image-saver-chrome-extension/releases).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 4. Drag and drop the downloaded `.crx` file into the `chrome://extensions/` page to install the extension.
 
 #### Install Using Source Code
 
-1. Download the latest release from the [Project page](https://github.com/firatkaanbitmez/smart-image-saver).
+1. Download the latest release from the [Project page](https://github.com/firatkaanbitmez/smart-image-saver-chrome-extension).
 2. Extract the downloaded ZIP file.
 3. Open Chrome and navigate to `chrome://extensions/`.
 4. Enable "Developer mode" by toggling the switch in the top right corner.
