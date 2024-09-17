@@ -1,4 +1,4 @@
-[![Chrome Web Store](https://img.shields.io/badge/Download-Chrome%20Web%20Store-brightgreen.svg?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/smart-image-saver/your-extension-id)
+[![Chrome Web Store](https://img.shields.io/badge/Download-Chrome%20Web%20Store-brightgreen.svg?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/smart-image-saver/pnjbhbeppkgcblpgbcddnlcjhbhjhdao)
 
 # Smart Image Saver
 
@@ -18,7 +18,7 @@
 
 #### Install from Chrome Web Store
 
-You can install the extension directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/smart-image-saver/your-extension-id).
+You can install the extension directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/smart-image-saver/pnjbhbeppkgcblpgbcddnlcjhbhjhdao).
 
 #### Manual Installation Using CRX File
 
